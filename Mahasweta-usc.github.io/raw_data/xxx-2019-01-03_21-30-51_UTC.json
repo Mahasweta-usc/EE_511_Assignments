@@ -1,0 +1,342 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.4"
+    },
+    "node": {
+        "__typename": "GraphSidecar",
+        "accessibility_caption": "Image may contain: text",
+        "caption_is_edited": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/33e2752a0b6b8cf25f312f864c38f3d2/5D2D53E4/t51.2885-15/sh0.08/e35/s640x640/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/adb4da0641ce4caa8139a713e24dd46b/5D2FADE4/t51.2885-15/sh0.08/e35/s750x750/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/94c64c29f8bd528830580c59ee17466a/5D48D901/t51.2885-15/e35/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            }
+        ],
+        "display_url": "https://instagram.fsac1-2.fna.fbcdn.net/vp/94c64c29f8bd528830580c59ee17466a/5D48D901/t51.2885-15/e35/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 23
+        },
+        "edge_media_preview_like": {
+            "count": 23,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Reposted from @mommakingconsciouschoices -  SWIPE LEFT \u2b05\ufe0f POLIO PART 4\n\nSource: 'Dissolving Illusions' by Suzanne Humphries and Roman Bystrianyk\n\nTo be continued in PART 5... #vaccines #polio #poliomyelitis #historyofpolio #physicaltherapy #educatedontvaccinate #educatebeforeyouvaccinate #vaccinesharm #vaccinesarepoison #pregnant #expecting #wellchildvisit #newborn #pediatrician #2monthshots #4monthshots #6monthshots #9monthshots #12monthshots"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1549249967,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17851349002344156",
+                        "owner": {
+                            "id": "4618362658",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/vp/4f1bd81dc5c2fd17e877164285c72afd/5D2F4F12/t51.2885-19/s150x150/26409049_399986587103309_2634808083561316352_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+                            "username": "24_2primecouple"
+                        },
+                        "text": "Awesome post I like, view my profile and if you like it please follow. I'd love for us to stay in touch.",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_sidecar_to_children": {
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Image may contain: text",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/33e2752a0b6b8cf25f312f864c38f3d2/5D2D53E4/t51.2885-15/sh0.08/e35/s640x640/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/adb4da0641ce4caa8139a713e24dd46b/5D2FADE4/t51.2885-15/sh0.08/e35/s750x750/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/94c64c29f8bd528830580c59ee17466a/5D48D901/t51.2885-15/e35/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            }
+                        ],
+                        "display_url": "https://instagram.fsac1-2.fna.fbcdn.net/vp/94c64c29f8bd528830580c59ee17466a/5D48D901/t51.2885-15/e35/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "gating_info": null,
+                        "id": "1948933933108238899",
+                        "is_video": false,
+                        "media_preview": "ACoqpwvEExIpLZJHHbjgnIyOvFKj24UBlOeCT6nnpz0PFNRYio3NID3AQEfgc07ZB/fk/wC/Y/8AiqABWt9vzKSck8A++O/pinJNCrH5cqemRk8A+vqcZpNsP/PST/v2P/iqTZB/fk/79j/4qgBJZIym1Bz67cdx/n/9dVKu7Yf78n/fsf8AxVVGAycEkdiRjj86AHx9Kf8A5/zxUSdcf5/rUuP8/wCRQAUf5/zxRj/P+RRj/P8AkUAIeh/z/SoKlc4H+f8AAVFQAU4Y7/zptFAEmF/yf/rUhx/k/wD1qZRQAUUUUAf/2Q==",
+                        "shortcode": "BsMARYVnxoz",
+                        "should_log_client_event": false,
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6Ijg3ZmVmNTljNWVlNzRhNzM5Zjc4NDgyZjMyZjYxMmQ0MTk0ODkzMzkzMzEwODIzODg5OSJ9LCJzaWduYXR1cmUiOiIifQ=="
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Image may contain: 7 people, text that says '.The way patients were treated had everything to do with the way patients turned out. was assumed among doctors and the public that poliomyelitis meant lifetime of corrective surgery and lameness. Sister Elizabeth Kenny' technique proved them wrong. .Sister Kenny is known for her alternative approach to the treatment of polio. She is a pioneer of what now known as physical therapy. wasn't until the 1940's that physical therapy and mobilization was finally identified and used important early intervention for paralysis patients. Sister Kenny demonstrates her treatment to US doctors in 1943. Picture: NWN Library'",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/0d6a064ba389c5083a22596e6d93b954/5D78166F/t51.2885-15/sh0.08/e35/s640x640/47582475_535527370256963_5677625540815426438_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/abb5b38110fb924421f912ed9ecb6a5b/5D2E7F6F/t51.2885-15/sh0.08/e35/s750x750/47582475_535527370256963_5677625540815426438_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/222f17403f4d4415232c740fe66e9198/5D51D18A/t51.2885-15/e35/47582475_535527370256963_5677625540815426438_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            }
+                        ],
+                        "display_url": "https://instagram.fsac1-2.fna.fbcdn.net/vp/222f17403f4d4415232c740fe66e9198/5D51D18A/t51.2885-15/e35/47582475_535527370256963_5677625540815426438_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "gating_info": null,
+                        "id": "1948933933099780517",
+                        "is_video": false,
+                        "media_preview": "ACoqzFUEf5/xp+0en+fzpqkgdCaduPoaADaP8/8A66TaPT/P50u4+ho3H0NAEb4HA/z+pplKffrSUATJ0p3+e1O2quACxAUFvYkcDOO9WEt1Kb2LA88cds+3pQBVx/nj/Cj/AD/nirDxRLwHYt2HHP6evHWqhz/CeM4oAG+X0/L/AOtUVSHcOKjoAndyYwq9cqcf3iOAD69B+P1qNZJ/M81kbIJOAGGSe3Q8D0PbimgkdKeLiUdHb/vo/wCNAGzbwgp5gTG/DFTzg9+o4HX/AArPnz5rZGOTx/kVX+0S/wB9v++j/jUZYsck5J6k0ASMSexFRUUUAf/Z",
+                        "shortcode": "BsMARYVHgml",
+                        "should_log_client_event": false,
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6Ijg3ZmVmNTljNWVlNzRhNzM5Zjc4NDgyZjMyZjYxMmQ0MTk0ODkzMzkzMzA5OTc4MDUxNyJ9LCJzaWduYXR1cmUiOiIifQ=="
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "No photo description available.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/4a9d21f003eeb8df5dd76cdefe1af18c/5D431085/t51.2885-15/sh0.08/e35/s640x640/47691268_628119704296239_8754976439785410908_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/447a656f4f7540054a52d632502a38fc/5D37A985/t51.2885-15/sh0.08/e35/s750x750/47691268_628119704296239_8754976439785410908_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/618779aa67e7a60f15dd39a9b6ce5665/5D323160/t51.2885-15/e35/47691268_628119704296239_8754976439785410908_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            }
+                        ],
+                        "display_url": "https://instagram.fsac1-2.fna.fbcdn.net/vp/618779aa67e7a60f15dd39a9b6ce5665/5D323160/t51.2885-15/e35/47691268_628119704296239_8754976439785410908_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "gating_info": null,
+                        "id": "1948933933091311160",
+                        "is_video": false,
+                        "media_preview": "ACoqqrbOwzg/p/jS/ZX9D+n+NWodxQfT+6P8alwf8gf41zubWmn4mnKih9lf0P6f405LUk/NkD8P8aujOOmfwH+NLz6fy/xpe0fkPlRVNooHU/pVA8HHpWm86ocMCD9B/jWczEkn1NaQ5upErdB4PHU/mKXn1P8A30P8aj3EU7J/yBWliR34n8x/jTTx3P5g0mT/AJApd5H/AOoUwGUUUUAFLmkooAXNIaKKACiiigD/2Q==",
+                        "shortcode": "BsMARYUnM44",
+                        "should_log_client_event": false,
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6Ijg3ZmVmNTljNWVlNzRhNzM5Zjc4NDgyZjMyZjYxMmQ0MTk0ODkzMzkzMzA5MTMxMTE2MCJ9LCJzaWduYXR1cmUiOiIifQ=="
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Image may contain: text that says 'Dr. John Pohl, a strong supporter of Sister Kenny, described some of the misery polio victims went through before the Kenny technique was used: \"We'd take the children to the operating room in those days, straighten them out under anesthetic, and put them in plaster casts. When they woke up, they screamed. The next day they still cried from the pain. That was the accepted and universal treatment virtually all over the world.\"'",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/62fc8a0b0511a94ea84b3cf4b6dbb051/5D3464D8/t51.2885-15/sh0.08/e35/s640x640/49544034_330308441146279_252356865441145458_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/e35e37aff8145d9b8128f4703c969090/5D397027/t51.2885-15/sh0.08/e35/s750x750/49544034_330308441146279_252356865441145458_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/484650ec81638d3a5819f2e33a1199e2/5D4DB0AB/t51.2885-15/e35/49544034_330308441146279_252356865441145458_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+                            }
+                        ],
+                        "display_url": "https://instagram.fsac1-2.fna.fbcdn.net/vp/484650ec81638d3a5819f2e33a1199e2/5D4DB0AB/t51.2885-15/e35/49544034_330308441146279_252356865441145458_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "gating_info": null,
+                        "id": "1948933933108095104",
+                        "is_video": false,
+                        "media_preview": "ACoqywBjJ/nS7R/k/wD1qRWIGB/M0u4+h/M0AG0f5IoKr/kj/CjefQ/maNx9D+ZoAYetJTj9MU2gBRT+P8k01T/nOKdn/OaAE/z1NH+eppc/5zRn/OaAGtTafk4/+vTKAHA4p35/pUdFAEn+e1H5/pUdFADycf5FMoooA//Z",
+                        "shortcode": "BsMARYVnOiA",
+                        "should_log_client_event": false,
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6Ijg3ZmVmNTljNWVlNzRhNzM5Zjc4NDgyZjMyZjYxMmQ0MTk0ODkzMzkzMzEwODA5NTEwNCJ9LCJzaWduYXR1cmUiOiIifQ=="
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "1948933936279131994",
+        "is_ad": false,
+        "is_video": false,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Soldier Voice",
+            "has_blocked_viewer": false,
+            "id": "46800984",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/vp/e1bd2b241c05e72bae903b535b8c405e/5D3652FD/t51.2885-19/s150x150/49985485_1202145729944375_7212942362933198848_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+            "requested_by_viewer": false,
+            "username": "i_am_a_soldiers_voice"
+        },
+        "shortcode": "BsMARbSnxda",
+        "should_log_client_event": false,
+        "taken_at_timestamp": 1546551051,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/66e6f596498aed598479a9d67c92679f/5D363A43/t51.2885-15/e35/s150x150/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/24116c90809cd333cf8dc2803e3f6968/5D4B9909/t51.2885-15/e35/s240x240/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/af23838969159e6d5827e90f751968ae/5D2E1EB3/t51.2885-15/e35/s320x320/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/9f8d1d1873a82e9c6f178fc0b5929fb5/5D4700E9/t51.2885-15/e35/s480x480/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/33e2752a0b6b8cf25f312f864c38f3d2/5D2D53E4/t51.2885-15/sh0.08/e35/s640x640/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/33e2752a0b6b8cf25f312f864c38f3d2/5D2D53E4/t51.2885-15/sh0.08/e35/s640x640/49789587_280132002683032_8026604885137482401_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6Ijg3ZmVmNTljNWVlNzRhNzM5Zjc4NDgyZjMyZjYxMmQ0MTk0ODkzMzkzNjI3OTEzMTk5NCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    },
+    "tags": [
+        "Text",
+        "Font",
+        "History",
+        "Document"
+    ],
+    "embed_words": "['But', 'what', 'about', 'POLIO', 'Part', '4', 'treatment', 'of', 'polio', 'Splinting', 'and', 'casting', 'of', 'paralyzed', 'limbs', 'was', 'the', 'primary', 'form', 'of', 'treatment', 'in', 'the', 'first', 'half', 'of', 'the', '20', 'century', 'Affected', 'limbs', 'were', 'routinely', 'immobilized', 'in', 'casts', 'for', 'three', 'to', 'six', 'months', 'and', 'often', 'as', 'long', 'as', 'two', 'years', 'This', 'is', 'a', 'very', 'important', 'link', 'to', 'the', 'story', 'of', 'polio', 'The', 'improper', 'treatment', 'of', 'polio', 'led', 'to', 'the', 'dysfunction', 'of', 'limbs', 'regardless', 'of', 'whether', 'the', 'virus', 'was', 'present', 'or', 'not', 'Dr', 'Suzanne', 'Humphries', 'Dissolving', 'Musions']",
+    "embed_text": "But what about POLIO?\nPart 4: treatment of polio\n\"Splinting and casting of paralyzed limbs was\nthe primary form of treatment in the first\nhalf of the 20 century. Affected limbs were\nroutinely immobilized in casts for three to six\nmonths and often as long as two years. This\nis a very important link to the story of polio.\nThe improper treatment of polio led to\nthe dysfunction of limbs, regardless of\nwhether the virus was present or not.\u201d\nDr. Suzanne Humphries\nDissolving Musions\n",
+    "web": [
+        [
+            "Mushroom",
+            0.32100000977516174
+        ],
+        [
+            "Font",
+            0.23515719175338745
+        ],
+        [
+            "Brand",
+            0.2289794534444809
+        ],
+        [
+            "Line",
+            0.2215597927570343
+        ],
+        [
+            "Presentation",
+            0.20829854905605316
+        ],
+        [
+            "Psilocybin mushroom",
+            0.20520000159740448
+        ]
+    ],
+    "Annotations": {
+        "belle": {
+            "Label": 3,
+            "Polarity": 1,
+            "Category": [
+                8
+            ]
+        }
+    }
+}

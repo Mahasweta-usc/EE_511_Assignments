@@ -1,0 +1,133 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.4"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": "Image may contain: one or more people and closeup",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 720,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fsac1-2.fna.fbcdn.net/vp/2255692c459e7973a96eb553c9a15723/5D4BDEE4/t51.2885-15/fr/e15/s1080x1080/56328801_290272048537522_1697723851286193949_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 22
+        },
+        "edge_media_preview_like": {
+            "count": 22
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Want to know how worried you should be about measles and mumps affecting your family? \nTo get info from Dr. David Cennimo, an infectious disease expert at Rutgers New Jersey Medical School, click on the link in our bio under \"Measles are spreading!\" #measles #measlesoutbreak #vaccine #publichealth #publichealth #tb #measles #disease # healthy #nj"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "2021879458576147372",
+        "is_video": false,
+        "owner": {
+            "id": "500176872"
+        },
+        "shortcode": "BwPKKe7FyOs",
+        "taken_at_timestamp": 1555246835,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/a1256380d3a0c2c0424eef082271d4f9/5D35DBEC/t51.2885-15/e15/c180.0.720.720a/s150x150/56328801_290272048537522_1697723851286193949_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/c82b07c686765f5386df4725e605d342/5D7773A6/t51.2885-15/e15/c180.0.720.720a/s240x240/56328801_290272048537522_1697723851286193949_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/5c887fa4b44d13897b2bed33c856bba0/5D36EE1C/t51.2885-15/e15/c180.0.720.720a/s320x320/56328801_290272048537522_1697723851286193949_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/4b77e6ef77c98b48d83373a9461acb8f/5D47AC46/t51.2885-15/e15/c180.0.720.720a/s480x480/56328801_290272048537522_1697723851286193949_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/0ba70ba64ac54bdf0cece4dd72fcb883/5D435F73/t51.2885-15/e15/c180.0.720.720a/s640x640/56328801_290272048537522_1697723851286193949_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/0ba70ba64ac54bdf0cece4dd72fcb883/5D435F73/t51.2885-15/e15/c180.0.720.720a/s640x640/56328801_290272048537522_1697723851286193949_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+    },
+    "tags": [
+        "Photograph",
+        "Finger",
+        "Hand",
+        "Child",
+        "Skin",
+        "Arm",
+        "Gesture",
+        "Human",
+        "Thumb",
+        "Baby"
+    ],
+    "web": [
+        [
+            "Wendy Sue Swanson",
+            5.030999660491943
+        ],
+        [
+            "Chickenpox",
+            0.7210000157356262
+        ],
+        [
+            "Measles",
+            0.6974999904632568
+        ],
+        [
+            "Rutgers New Jersey Medical School",
+            0.6089999675750732
+        ],
+        [
+            "Pediatrics",
+            0.5386000275611877
+        ],
+        [
+            "Hand, foot, and mouth disease",
+            0.519599974155426
+        ],
+        [
+            "Disease",
+            0.49900001287460327
+        ],
+        [
+            "Health",
+            0.461899995803833
+        ],
+        [
+            "Skin rash",
+            0.46149998903274536
+        ],
+        [
+            "Vaccination",
+            0.451200008392334
+        ]
+    ],
+    "Annotations": {
+        "belle": {
+            "Label": 3,
+            "Polarity": 1,
+            "Category": [
+                4,
+                2
+            ]
+        }
+    }
+}

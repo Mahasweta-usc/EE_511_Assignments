@@ -1,0 +1,132 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.4"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": "No photo description available.",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 250,
+            "width": 320
+        },
+        "display_url": "https://instagram.fsac1-2.fna.fbcdn.net/vp/bc0e945560c5c194580f57327a7fed78/5D37C5F6/t51.2885-15/e35/51952881_643017709466041_2475883738418026681_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 23
+        },
+        "edge_media_preview_like": {
+            "count": 23
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\u270a\ud83c\uddf1\ud83c\uddf7\ud83d\ude4c\u2764\ud83d\ude4c\ud83c\uddf1\ud83c\uddf7\u270a"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2
+        },
+        "id": "1994345982447501762",
+        "is_video": false,
+        "owner": {
+            "id": "8165813337"
+        },
+        "shortcode": "ButVxrDAsHC",
+        "taken_at_timestamp": 1551964589,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/dda0ef945b4d1770f72ad993bc358633/5D48877F/t51.2885-15/e35/c35.0.250.250/s150x150/51952881_643017709466041_2475883738418026681_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/c43028628e7684dca8d2e288378bf820/5D395235/t51.2885-15/e35/c35.0.250.250/s240x240/51952881_643017709466041_2475883738418026681_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/f523a06375289caa6bc4479f4f05e6f1/5D383871/t51.2885-15/e35/c35.0.250.250/51952881_643017709466041_2475883738418026681_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/f523a06375289caa6bc4479f4f05e6f1/5D383871/t51.2885-15/e35/c35.0.250.250/51952881_643017709466041_2475883738418026681_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/f523a06375289caa6bc4479f4f05e6f1/5D383871/t51.2885-15/e35/c35.0.250.250/51952881_643017709466041_2475883738418026681_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/f523a06375289caa6bc4479f4f05e6f1/5D383871/t51.2885-15/e35/c35.0.250.250/51952881_643017709466041_2475883738418026681_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+    },
+    "tags": [
+        "Text",
+        "Font",
+        "Logo",
+        "Line",
+        "Brand",
+        "Graphics",
+        "Heart"
+    ],
+    "embed_words": "['PERSONAL', 'MEDICAL', 'RELIGIOUS', 'FREEDOM', 'HEALTH', 'FREEDOM', 'ACTION', 'www', 'healthfreedomaction', 'org']",
+    "embed_text": "PERSONAL, MEDICAL,\n& RELIGIOUS\nFREEDOM!\nHEALTH FREEDOM ACTION\nwww.healthfreedomaction.org\n",
+    "web": [
+        [
+            "Vaccination",
+            0.4113999903202057
+        ],
+        [
+            "Vaccine",
+            0.36410000920295715
+        ],
+        [
+            "Freedom of choice",
+            0.2815000116825104
+        ],
+        [
+            "Rights",
+            0.2784000039100647
+        ],
+        [
+            "Health",
+            0.27399998903274536
+        ],
+        [
+            "Medicine",
+            0.22709999978542328
+        ],
+        [
+            "Liberty",
+            0.19380000233650208
+        ],
+        [
+            "Political freedom",
+            0.19269999861717224
+        ],
+        [
+            "Freedom of religion",
+            0.18799999356269836
+        ],
+        [
+            "Choice",
+            0.16920000314712524
+        ]
+    ],
+    "Annotations": {
+        "belle": {
+            "Label": 3,
+            "Polarity": 1,
+            "Category": [
+                8,
+                6
+            ]
+        }
+    }
+}

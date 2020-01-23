@@ -1,0 +1,148 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.4"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": "No photo description available.",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 754,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fsac1-2.fna.fbcdn.net/vp/036d8533f5c7ca73eb45e896759f7b8d/5D3401AC/t51.2885-15/e35/22280832_120978898589846_7424312379472609280_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 448
+        },
+        "edge_media_preview_like": {
+            "count": 448
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "249,669 0-1 year olds are on anti-anxiety drugs (such as Xanax, Klonopin, and Ativan).\n\u2800\u2800\u2800 \u2800\n26,406 0-1 year olds are on antidepressants (such as Prozac, Zoloft, and Paxil).\n\u2800\u2800\u2800 \u2800\nThere are 1,422 0-1 year olds taking ADHD drugs (such as Ritalin, Adderall, and Concerta).\n\u2800\u2800\u2800 \u2800\n654 0-1 year olds are taking antipsychotics (such as Risperdal, Seroquel, and Zyprexa).\n\u2800\u2800\u2800 \u2800\nWhile the CDC was correct in issuing their report on the 10,000 2-3 year olds (toddlers) being prescribed #ADHD drugs, the number of toddlers on anti-anxiety and antidepressants is staggering in comparison:\n\u2800\u2800\u2800 \u2800\n318,997 2-3 year olds are on anti-anxiety drugs.\n\u2800\u2800\u2800 \u2800\n46,102 2-3 year olds are on #antidepressants.\n\u2800\u2800\u2800 \u2800\n3,760 2-3 year olds are taking #antipsychotics.\n\u2800\u2800\u2800 \u2800\nAnd as for other age groups, the numbers start in the millions with 0-5 year olds:\n\u2800\u2800\u2800 \u2800\nThe total number of 0-5 year olds currently prescribed psychiatric drugs is 1,080,168.\n\u2800\u2800\u2800 \u2800\nThe number of 6-12 year olds on psychiatric drugs is 4,130,340.\n\u2800\u2800\u2800 \u2800\nThe number of 13-17 year olds taking psychiatric drugs is 3,617,593.\n\u2800\u2800\u2800 \u2800\nVACCINE INJURY CREATES BILLIONS OF CUSTOMERS!!!\n\u2800\u2800\u2800 \u2800\nhttp://ow.ly/vXdM30fIxw2\n\u2800\u2800\u2800 \u2800\n\n#bigpharma #drugs #pharmaceuticals #cdc #vaccineinjury #antidepressants #bigpharmacreatinglifetimecustomersdaily"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 71
+        },
+        "id": "1621198489608686705",
+        "is_video": false,
+        "owner": {
+            "id": "214813135"
+        },
+        "shortcode": "BZ_p2_Thoxx",
+        "taken_at_timestamp": 1507481941,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/a0ed80f07fea7a9cfd418ad3ef382158/5D4559B5/t51.2885-15/e35/c163.0.754.754/s150x150/22280832_120978898589846_7424312379472609280_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/b8073e61b8e3efb9a19041d6514e451b/5D31CAFF/t51.2885-15/e35/c163.0.754.754/s240x240/22280832_120978898589846_7424312379472609280_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/5bb14b4cca6ad67094bbdd248a191212/5D3F6C45/t51.2885-15/e35/c163.0.754.754/s320x320/22280832_120978898589846_7424312379472609280_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/ca0e62a939fe6fbca0a970d95ec09e9c/5D2CEF1F/t51.2885-15/e35/c163.0.754.754/s480x480/22280832_120978898589846_7424312379472609280_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/2716baaad959124d79e2ed71dc479d1e/5D2ECABF/t51.2885-15/sh0.08/e35/c163.0.754.754/s640x640/22280832_120978898589846_7424312379472609280_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/2716baaad959124d79e2ed71dc479d1e/5D2ECABF/t51.2885-15/sh0.08/e35/c163.0.754.754/s640x640/22280832_120978898589846_7424312379472609280_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+    },
+    "tags": [
+        "People",
+        "Text",
+        "Crowd",
+        "Font",
+        "Sky",
+        "Audience",
+        "Event",
+        "Photography",
+        "Happy",
+        "World"
+    ],
+    "embed_words": "['IN', 'THE', 'U', 'S', 'ALONE', 'THE', 'NUMBER', 'OF', '0', '5', 'YEAR', 'OLDS', 'ON', 'PSYCHIATRIC', 'DRUGS', 'COULD', 'FILL', 'THE', 'ROSE', 'BOW', 'De', '10', 'TIMES', 'OVER', 'sia', 'source', 'MS', 'health']",
+    "embed_text": "IN THE U.S. ALONE, THE NUMBER OF\n0-5 YEAR OLDS ON PSYCHIATRIC\nDRUGS COULD FILL THE ROSE BOW...\nDe 10 TIMES OVER.\nsia (source MS health)\n",
+    "web": [
+        [
+            "Australian Vaccination-risks Network",
+            0.8137999773025513
+        ],
+        [
+            "Chiropractic",
+            0.5598000288009644
+        ],
+        [
+            "Health",
+            0.42559999227523804
+        ],
+        [
+            "Vaccination",
+            0.4122999906539917
+        ],
+        [
+            "Vaccine controversies",
+            0.3361999988555908
+        ],
+        [
+            "",
+            0.31839999556541443
+        ],
+        [
+            "Chiropractors' Association of Australia",
+            0.3050999939441681
+        ],
+        [
+            "Health Care",
+            0.2757999897003174
+        ],
+        [
+            "Medicine",
+            0.26460000872612
+        ],
+        [
+            "Vaccine",
+            0.24449999630451202
+        ]
+    ],
+    "Annotations": {
+        "belle": {
+            "Label": 2,
+            "Polarity": -1,
+            "Category": [
+                4
+            ]
+        },
+        "Grace": {
+            "Label": 3,
+            "Polarity": -1,
+            "Category": [
+                4
+            ]
+        },
+        "Belle": {
+            "Label": 2,
+            "Polarity": -1,
+            "Category": [
+                4
+            ]
+        }
+    }
+}

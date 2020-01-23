@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left {
+  width: 50%;
+}
+
+.right {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+<html>
+<body style="background-color:powderblue;">
+<h1 align=center>Vaccine Misinformation Annotation</h1>
+<div class="row">
+  <div class="column left">
+  <img src="https://storage.cloud.google.com/procvaxx/2011-08-03_13-40-00_UTC.png"
+         width="300" 
+         height="235" 
+         alt="Image"> 
+</div>
+<div class="column right">
+    <form action="input" method="post">
+      <h2>Vaccine Bias</h2>
+   
+        <input type="radio" name="senti" value=-1> Anti-vaccine <br>
+        <input type="radio" name="senti" value=1> Pro-vaccine<br>
+        <input type="radio" name="senti" value=0 > Neutral<br>
+      
+      <h2>Misinformation Content </h2>
+        <input type="radio" name="label" value=1> Misinformation <br>
+        <input type="radio" name="label" value=2> Controversial<br>
+        <input type="radio" name="label" value=3> Clean<br>   
+        </p><br /><p>
+  
+      <input type='submit' value='Submit'>
+ 
+    </form>
+   
+     
+  </p>Posts Completed by {{ name }} : {{ count }} <p>
+  
+</div>
+</div>
+</p>
+</body>
+</html>

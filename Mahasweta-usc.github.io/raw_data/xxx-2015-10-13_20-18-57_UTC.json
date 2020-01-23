@@ -1,0 +1,175 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.4"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": "No photo description available.",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fsac1-2.fna.fbcdn.net/vp/4504bb395f89a7a8ded3aa99f0482266/5D412C49/t51.2885-15/e35/12093827_678555948910772_186766694_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 2
+        },
+        "edge_media_preview_like": {
+            "count": 2
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "#Repost @rethinkvaccines \u30fb\u30fb\u30fb\nYou would think with all of the advances in modern medicine that we as Americans would have a higher life expectancy over time, but this graph states the exact opposite. Notice how as our health care costs go up, our life expectancy goes down. You will see in other countries where healthcare is low that the life expectancy rate is quite high. Could it be because advances in \"science\" actually aren't increasing life expectancy but keeping us sick? If there is so much \"prevention\" and \"cure\" in modern medicine then why aren't we living longer and why are pharma's pockets continuing to grow? #pharma #bigpharma #medicine #modernmedicine #healathome #foodismymedicine #healthy #pharmaceuticals #profit #vaccines #vaccinefree #vaccineeffects #vaccinefailure #corruption #educatebeforeyouvaccinate #rethinkvaccines"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1095111933704950449",
+        "is_video": false,
+        "owner": {
+            "id": "8494499"
+        },
+        "shortcode": "8ynoBlxlKx",
+        "taken_at_timestamp": 1444767537,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/2eecd65a4d53c2c0eb56db21461e4565/5D3A85CB/t51.2885-15/e35/s150x150/12093827_678555948910772_186766694_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/1c02b562907ac39450544cf51f0bb0f8/5D2FFC97/t51.2885-15/e35/s240x240/12093827_678555948910772_186766694_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/a5b018d14541382299ef141fb4780089/5D3A266D/t51.2885-15/e35/s320x320/12093827_678555948910772_186766694_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/6357f6667df7dae079682bfba4abb5c4/5D3897DA/t51.2885-15/e35/s480x480/12093827_678555948910772_186766694_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/a04dcef772dabc42db4b77dc23d00e0c/5D4264DC/t51.2885-15/sh0.08/e35/s640x640/12093827_678555948910772_186766694_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fsac1-2.fna.fbcdn.net/vp/a04dcef772dabc42db4b77dc23d00e0c/5D4264DC/t51.2885-15/sh0.08/e35/s640x640/12093827_678555948910772_186766694_n.jpg?_nc_ht=instagram.fsac1-2.fna.fbcdn.net"
+    },
+    "tags": [
+        "Text",
+        "Line",
+        "Font",
+        "Diagram",
+        "Graphic design",
+        "Web page",
+        "Parallel"
+    ],
+    "embed_words": "['Life', 'Expectancy', 'Growth', 'U', 'S', 'vs', 'the', 'World', 'Life', 'expectancy', 'numbers', 'have', 'grown', 'between', '1975', 'and', '2010', 'for', 'many', 'countries', 'but', 'the', 'growth', 'rate', 'in', 'the', 'US', 'is', 'lower', 'than', 'average', 'despite', 'large', 'spending', 'HearUs', 'WELNENOT', 'TODAVAT', 'repealSB27', 'Life', 'Expectancy', 'Percentage', 'Growth', '1975', '2010', 'Healthcare', 'Costs', 'per', 'Capita', '2013', '12', '20', '12', '33', '9', '46', 'Average', 'Australia', 'Conada', 'Chile', 'China', 'Cuba', 'England', 'France', 'Germany', 'New', 'Zealand', 'US', '13', '64', 'rethinkvaccines', 'Average', '3', '427', 'Australia', '6', '110', '1975', 'Canada', '4', '351', '1966', 'Chile', '1', '204', 'China', '367', 'Cubo', '603', '1959', 'England', '823', '1948', 'France', '4', '124', '1974', 'Germany', '4', '919', '1941', 'New', 'Zealand', '4', '00', '1938', '8', '713', '972', '4124', '12', '33', '1268', '8', '229', 'US', '0', '5', '10', '15', '20', '0', '2', '000', '4', '000', '6', '000', '8', '000', 'Indicates', 'that', 'a', 'country', 'has', 'universal', 'healthcare', 'and', 'the', 'date', 'which', 'universal', 'healthcare', 'began', '5', 'of', 'the', 'world', 's', 'population', 'lives', 'in', 'the', 'US', 'Did', 'you', 'know', 'The', 'US', 'spends', 'almost', 'double', 'per', 'capita', 'on', 'medical', 'expenses', 'compared', 'to', 'other', 'countries', '50', 'of', 'the', 'world', 's', 'pills', 'are', 'taken', 'in', 'the', 'US', '80', 'of', 'the', 'world', 's', 'painkillers', 'are', 'taken', 'in', 'the', 'US', 'The', 'US', 'and', 'New', 'Zealand', 'are', 'the', 'only', 'countries', 'that', 'allow', 'pharmeceutical', 'companies', 'to', 'advertise', 'on', 'television', '99', 'The', 'US', 's', 'diet', 'is', 'a', 'major', 'part', 'of', 'the', 'problem', 'and', 'contributes', 'to', 'almost', 'one', 'third', 'of', 'the', 'world', 's', 'global', 'obese', 'weight', 'TO']",
+    "embed_text": "Life Expectancy Growth-U.S. vs. the World\nLife expectancy numbers have grown between 1975 and 2010 for many countries, but the\ngrowth rate in the US is lower than average despite large spending\n#HearUs\nWELNENOT\nTODAVAT\n(repealSB27\nLife Expectancy Percentage\nGrowth: 1975-2010\nHealthcare Costs per Capita (2013)\n12 20%\n12 33%\n9.46%\nAverage\nAustralia\nConada\nChile\nChina\nCuba\nEngland\nFrance\nGermany\nNew Zealand\nUS\n13.64%\nrethinkvaccines\nAverage $3,427\nAustralia\n$6.110 * 1975\nCanada\n$4,351 * 1966\nChile\n$1.204\nChina $367\nCubo $603 * 1959\nEngland\n823* 1948\nFrance\n$4,124 * 1974\nGermany\n$4,919 * 1941\nNew Zealand\n$4,00 * 1938\n$8,713\n972%\n$4124\n12.33%\n1268%\n8.229\nUS\n0% 5% 10% 15% 20%\n$0 $2.000 $4.000 $6,000 $8.000\n*: Indicates that a country has universal healthcare, and the date which universal healthcare began.\n5%\nof the world's\npopulation lives\nin the US\nDid you know?\n\u2022 The US spends almost double per\ncapita on medical expenses compared\nto other countries\n50%\nof the world's\npills are taken\nin the US\n80%\nof the world's\npainkillers are\ntaken in the\nUS\n. The US and New Zealand are the only\ncountries that allow pharmeceutical\ncompanies to advertise on television\n99\n\u2022 The US's diet is a major part of the\nproblem, and contributes to almost one-\nthird of the world's global obese weight\nTO\n",
+    "web": [
+        [
+            "United States",
+            0.2389499992132187
+        ],
+        [
+            "Health care in the United States",
+            0.21529999375343323
+        ],
+        [
+            "Health care prices in the United States",
+            0.19850000739097595
+        ],
+        [
+            "Health Care",
+            0.193900004029274
+        ],
+        [
+            "Medicine",
+            0.18549999594688416
+        ],
+        [
+            "Medical tourism",
+            0.18160000443458557
+        ],
+        [
+            "Industry",
+            0.1728000044822693
+        ],
+        [
+            "Healthcare industry",
+            0.16820000112056732
+        ],
+        [
+            "Tourism",
+            0.1340000033378601
+        ]
+    ],
+    "Annotations": {
+        "belle": {
+            "Label": 3,
+            "Polarity": 1,
+            "Category": [
+                8,
+                4
+            ]
+        },
+        "Vasudha": {
+            "Label": 2,
+            "Polarity": -1,
+            "Category": [
+                8,
+                2
+            ]
+        },
+        "youzheng": {
+            "Label": 1,
+            "Polarity": -1,
+            "Category": [
+                2
+            ]
+        },
+        "Grace": {
+            "Label": 3,
+            "Polarity": -1,
+            "Category": [
+                7
+            ]
+        },
+        "Belle": {
+            "Label": 2,
+            "Polarity": -1,
+            "Category": [
+                1,
+                4
+            ]
+        },
+        "yz": {
+            "Label": 3,
+            "Polarity": 0,
+            "Category": [
+                4
+            ]
+        },
+        "Haw2": {
+            "Label": 2,
+            "Polarity": 0,
+            "Category": []
+        },
+        "Maha": {
+            "Label": 3,
+            "Polarity": 1,
+            "Category": []
+        }
+    }
+}
